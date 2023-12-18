@@ -1,3 +1,3 @@
 # Assignment
 
-For Docs, open index file.
+For Docs, open index.html file in browser.
